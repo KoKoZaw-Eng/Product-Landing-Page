@@ -1,0 +1,35 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  background-color: rgb(182, 207, 218);
+}
+
+#cu-logo {
+  width: 100px;
+}
+
+#bg {
+  background-color: rgb(212, 221, 228);
+}
+
+
+.cu-box {
+  padding: 10px;
+  background: #add8e6;
+  border-right: 1px solid blue;
+  border-top: 1px solid blue;
+  border-bottom: 1px solid blue;
+}
+
+.cu-box h5 {
+  height: 40px;
+  line-height: 40px;
+  background: gray;
+  color: white;
+}
+
+#foo {
+  height: 80px;
+}
